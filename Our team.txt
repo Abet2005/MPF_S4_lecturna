@@ -1,4 +1,8 @@
 This project are part of our final assignment in Semester 4 Multimedia Programming Foundation
+this source are copied from original repository owner, Alberto-Audrix
+link of original repository (privated)
+https://github.com/Alberto-Audrix/Project_MPF/tree/main
+
 
 part of our team
 Alberto Audrix Suiwidjaya - 2540126563
